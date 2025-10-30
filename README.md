@@ -1,4 +1,4 @@
-# SageAttention 3 — Blackwell (WSL2 Build Report)
+'# SageAttention 3 — Blackwell (WSL2 Build Report)
 
 **Author:** [k1n0f]  
 **Based on:** [jt-zhang/SageAttention3](https://github.com/jt-zhang/SageAttention3)  
@@ -24,6 +24,7 @@ Max allocated memory: 9.953 GB
 Comfy-VFI done — 125 frames generated at torch.Size([3, 1984, 1120])
 Prompt executed in 341.08 seconds
 2K VIDEO — 125 FRAMES — 5.7 MINUTES — UNDER WSL2
+<img src="mosaic.png" alt="Mosaic Preview"> <img src="log.png" alt="Log">
 ```
 
 ---
