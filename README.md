@@ -31,6 +31,8 @@ Prompt executed in 341.08 seconds
 
 ## System Configuration
 
+![nvidia-smi](nvidia-smi.png)
+
 | Component | Version / Details |
 |------------|------------------|
 | GPU | NVIDIA GeForce RTX 5080 (Blackwell SM_120) |
