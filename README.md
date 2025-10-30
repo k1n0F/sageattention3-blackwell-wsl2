@@ -17,15 +17,15 @@ The goal was to enable full functionality in **ComfyUI + WAN Video Wrapper**, ac
 
 ## Proof of Success
 
-```
+```text
 attention mode override: sageattn3
 tensor out (1, 8, 128, 64) torch.bfloat16 cuda:0
 Max allocated memory: 9.953 GB
 Comfy-VFI done — 125 frames generated at torch.Size([3, 1984, 1120])
 Prompt executed in 341.08 seconds
 2K VIDEO — 125 FRAMES — 5.7 MINUTES — UNDER WSL2
-<img src="mosaic.png" alt="Mosaic Preview"> <img src="log.png" alt="Log">
 ```
+<img src="mosaic.png" alt="Mosaic Preview"> <img src="log.png" alt="Log">
 
 ---
 
