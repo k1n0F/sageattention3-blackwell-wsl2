@@ -1,7 +1,7 @@
 '# SageAttention 3 — Blackwell (WSL2 Build Report)
 
 **Author:** [k1n0f]  
-**Based on:** [jt-zhang/SageAttention3](https://github.com/jt-zhang/SageAttention3)  
+**Based on:** [thu-ml/SageAttention3](https://github.com/thu-ml/SageAttention)  
 **Workflow author** [Super Comfy](https://www.youtube.com/channel/UCTg77WMzeyJGp1gV3TD30uA)
 [Video: Fast & High Quality Wan 2.2 Image to Video Workflow!](https://www.youtube.com/watch?v=jn-4BR1UhEY)
 [sonnybox/yt-files — COMFY/workflows/Wan 2.2 Image to Video.json](https://github.com/sonnybox/yt-files/blob/main/COMFY/workflows/Wan%202.2%20Image%20to%20Video.json)
